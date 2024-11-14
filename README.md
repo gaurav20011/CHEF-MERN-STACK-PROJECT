@@ -1,5 +1,9 @@
 
+Project Overview: Chef Connect
+The goal of Chef Connect is to allow users to select dishes to be prepared by a chef who is then sent to their location. The system is divided into two main roles:
 
+User Role: Users (clients) can browse the menu, choose dishes, and book a chef for a specified date and time.
+Admin Role: Admins oversee chef assignments, manage bookings, and handle user requests, ensuring that the right chef is dispatched to each client.
 
 CLIENT SIDE:
 
